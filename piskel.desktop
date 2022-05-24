@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/scrappy/piskel/piskel
+Name=Godot
+Icon=/home/scrappy/piskel/icon.png
